@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('title')
-<h1>About</h1>
+<h1>New About!!!</h1>
 @endsection
 
 @section('content')
