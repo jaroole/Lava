@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('title')
-<h1>!!!!!!!New!!!!!!!!</h1>
+<h1>Hello From Den!</h1>
 @endsection
 
 @section('content')
